@@ -6,7 +6,7 @@ hero: "/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 author: Allen Ginsberg
 
 ---
-A test! Another change
+A test! Another change. One more time
 
 I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
 
